@@ -1,5 +1,5 @@
 # Rocket Boost game
-Rocket boosting game made in Unity.
+Rocket boosting game made with Unity.
 
 ## OBJECTIVE
 - Navigate your rocket to the platform!
